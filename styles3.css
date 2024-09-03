@@ -1,0 +1,78 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+}
+
+#div1 {
+
+    background-color: #333;
+    padding: 20px;
+}
+
+h1 {
+    color:#ffffff;
+    text-align: center;
+}
+
+div nav {
+    text-align: center;
+
+}
+
+.ha {
+    padding: 7px;
+    color: rgb(241, 178, 101);
+    margin: 10px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.espac1 {
+    padding: 30px;
+}
+
+.cadastro12 {
+    margin-bottom: 20px;
+}
+
+.enviar {
+    font-size: 17px;
+    margin-top: 5px;
+    background-color: orange;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.enviar:hover {
+    background-color: darkorange;
+    transition: 1s;
+}
+
+#final1 {
+    padding: 20px;
+    color: cadetblue;
+    font-weight: bold;
+}
+
+#fas1 {
+    color: #333;
+    font-weight:bolder;
+}
+
+
+footer {
+    background-color: #333;
+    text-align: center;
+    color: #ffffff;
+    padding: 20px;
+    
+
+}
+
+footer a{
+    margin: 50px;
+    color: darkslategrey;
+}

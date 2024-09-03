@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+}
+.div1 {
+    background-color: #333;
+    padding: 20px;
+}
+h1 {
+    color: #ffffff;
+    text-align: center;
+}
+div nav {
+    text-align: center;
+}
+.ha {
+    padding: 7px;
+    color: rgb(241, 178, 101);
+    margin: 10px;
+    text-decoration: none;   
+}
+p {
+    text-align: center;
+    padding: 20px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.img-produtos{
+    box-sizing: border-box;
+}
+.img-produtos table {
+    padding: 20px;
+    font-size: large;
+    border-spacing: 15px;
+}
+.e11 {
+    border: 5px solid #c4bebe;
+}
+footer {
+    background-color: #333;
+    text-align: center;
+    color: #ffffff;
+    padding: 200px ;
+}
+.env1 {
+    padding: 20px;
+    text-align: center;
+}
+footer a{
+    margin: 50px;
+    color: darkslategrey;
+}
